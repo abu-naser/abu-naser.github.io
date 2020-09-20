@@ -12,7 +12,7 @@ I am a Ph.D. student in Computer Science at Florida State University. My researc
 
 In my current project, I am developing a secure fast communication library for parallel and distributed computing architecture.
 
-## Publications
+### Publications
 
 1. An Empirical Study of Cryptographic Libraries for MPI Communications   
   Abu Naser, Mohsen Gavahi, Cong Wu, Viet Tung Hoang, Zhi Wang, Xin Yuan   
