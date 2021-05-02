@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at Florida State University. My research interest in system and system security with a specific focus on HPC security in the cluster and cloud environment. I am doing research under the supervision of [Dr. Zhi Wang](https://www.cs.fsu.edu/~zwang/) and [Dr. Xin Yuan](https://www.cs.fsu.edu/~xyuan/). I am grateful for having [Dr. Viet Tung Hoang](https://www.cs.fsu.edu/~tvhoang/) as a committee member.
+I am a Ph.D. candidate at Department of Computer Science, Florida State University. My research interest in system and system security with a specific focus on HPC security in the cluster and cloud environment. I am doing research under the supervision of [Dr. Zhi Wang](https://www.cs.fsu.edu/~zwang/) and [Dr. Xin Yuan](https://www.cs.fsu.edu/~xyuan/). I am grateful for having [Dr. Viet Tung Hoang](https://www.cs.fsu.edu/~tvhoang/) as a committee member.
 
 In my current project, I am developing a secure fast communication library for parallel and distributed computing architecture.
 
