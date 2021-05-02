@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at Florida State University. My research interest in system and system security with a specific focus on HPC security in the cluster and cloud environment. I am doing research under the supervision of [Dr. Zhi Wang](https://www.cs.fsu.edu/~zwang/) and [Dr. Xin Yuan](https://www.cs.fsu.edu/~xyuan/). I am grateful for having [Dr. Viet Tung Hoang](https://www.cs.fsu.edu/~tvhoang/) as a committee member.
+I am a Ph.D. candidate in Computer Science at Florida State University. My research interest in system and system security with a specific focus on HPC security in the cluster and cloud environment. I am doing research under the supervision of [Dr. Zhi Wang](https://www.cs.fsu.edu/~zwang/) and [Dr. Xin Yuan](https://www.cs.fsu.edu/~xyuan/). I am grateful for having [Dr. Viet Tung Hoang](https://www.cs.fsu.edu/~tvhoang/) as a committee member.
 
 In my current project, I am developing a secure fast communication library for parallel and distributed computing architecture.
 
@@ -17,7 +17,7 @@ In my current project, I am developing a secure fast communication library for p
 1. Efficient Algorithms for Encrypted All-gather Operation   
    Mehran Sadeghi Lahijani, Abu Naser, Cong Wu, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, Xin Yuan 
    35th IEEE International Parallel &  Distributed Processing Symposium ([IPDPS 2021](https://www.ipdps.org/))   
-   Online event [[paper](), [source code]()] 
+   Online event [//]: # [[paper](), [source code]()] 
 
 2. An Empirical Study of Cryptographic Libraries for MPI Communications   
   Abu Naser, Mohsen Gavahi, Cong Wu, Viet Tung Hoang, Zhi Wang, Xin Yuan   
@@ -32,4 +32,8 @@ In my current project, I am developing a secure fast communication library for p
 4. Adaptive Call-site Sensitive Control Flow Integrity    
    Mustakimur Khandaker, Abu Naser, Wenqing Liu, Zhi Wang, Yajin Zhou, Yueqiang Cheng   
    Proceedings of the 4th IEEE European Symposium on Security and Privacy ([EuroS&P 2019](https://www.ieee-security.org/TC/EuroSP2019/))   
-   Stockholm, Sweden Jun 2019 (20%) [[paper](https://www.cs.fsu.edu/~zwang/files/eurosp19.pdf), [source code](https://github.com/mustakcsecuet/CFI-LB), Best Paper Award]    
+   Stockholm, Sweden Jun 2019 (20%) [[paper](https://www.cs.fsu.edu/~zwang/files/eurosp19.pdf), [source code](https://github.com/mustakcsecuet/CFI-LB), Best Paper Award]  
+
+
+   
+   [CV](https://ww2.cs.fsu.edu/~naser/Abu-Naser.pdf)  
