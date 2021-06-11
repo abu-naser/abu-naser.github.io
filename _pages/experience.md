@@ -37,6 +37,6 @@ author_profile: true
 ### Samsung Research and Development Institute, Dhaka, Bangladesh
 ----
 * Software Engineer (November 2010 - February 2012)
-    * Customized and developed OS based on features specification.
+    * Customized and developed Samsung mobile phone OS for different regional specifications.
     * Unit testing.
     * Solved issues on the internet module.
