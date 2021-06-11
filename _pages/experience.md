@@ -1,11 +1,8 @@
 ---
-title: "Teaching Experience"
-collection: experience
-type: "Undergraduate course"
-permalink: /experience/fsu
-#venue: "University 1, Department"
-#date: 2014-01-01
-#location: "City, Country"
+layout: archive
+title: "Experience"
+permalink: /experience/
+author_profile: true
 ---
 
 ### Florida State University
