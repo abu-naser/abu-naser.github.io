@@ -23,8 +23,8 @@ author_profile: true
     *  LLC cache side-channel defense for HPC applications.
 
 * Graduate Teaching Assistant
-    * Fall 2017: COP 4610 (CGS-5765) - Introduction to Operating Systems (Undergraduate)
     * Spring 2018: CIS 5370 - Computer Security (Graduate)
+    * Fall 2017: COP 4610 (CGS-5765) - Introduction to Operating Systems (Undergraduate)
 
 
 ### Shahjalal University of Science and Technology, Sylhet, Bangladesh
