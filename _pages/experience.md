@@ -18,7 +18,7 @@ author_profile: true
 ### Florida State University, Tallahassee, USA
 ----
 * Graduate Research Assistant (August 2016 - April 2021)
-    *  Designed and implemented encrypted parallel and distributed communication library CryptMPI for HPC in the cloud.
+    *  Designed and implemented encrypted parallel and distributed communication library CryptMPI for HPC in the cloud.  CryptMPI implemented in C on top of MVAPICH and MPICH to speed up encrypted communication using novel collective algorithms, pre-computation, multithreading, and pipelining techniques.
     *  Designed and implemented memory vulnerabilities detection and prevention system.
     *  LLC cache side-channel defense for HPC applications.
 
