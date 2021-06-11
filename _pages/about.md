@@ -13,7 +13,7 @@ I am a Ph.D. candidate at Department of Computer Science, Florida State Universi
 In my current project, I am developing a secure fast communication library for parallel and distributed computing architecture.
 
 ### Publications
-
+---
 1. Efficient Algorithms for Encrypted All-gather Operation   
    Mehran Sadeghi Lahijani, **Abu Naser**, Cong Wu, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, Xin Yuan 
    35th IEEE International Parallel &  Distributed Processing Symposium ([IPDPS 2021](https://www.ipdps.org/))   
@@ -35,5 +35,9 @@ In my current project, I am developing a secure fast communication library for p
    Stockholm, Sweden Jun 2019 (20%) [[paper](https://www.cs.fsu.edu/~zwang/files/eurosp19.pdf), [source code](https://github.com/mustakcsecuet/CFI-LB), Best Paper Award]  
 
 
+### Service
+---
+* AD/AE evaluation committee member, SC, 2021.
 
+---
 [CV](https://ww2.cs.fsu.edu/~naser/Abu-Naser.pdf)  
