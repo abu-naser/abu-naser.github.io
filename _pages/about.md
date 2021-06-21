@@ -39,7 +39,7 @@ In addition to that, I have experience in working on system security projects. I
 
 ### Service
 ---
-* AD/AE evaluation committee member, SC, 2021.
+* AD/AE evaluation committee member, [SC, 2021](https://sc21.supercomputing.org/).
 
 ---
 [CV](https://ww2.cs.fsu.edu/~naser/Abu-Naser.pdf)  
