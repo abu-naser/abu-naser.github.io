@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Department of Computer Science, Florida State University. My research interest in system and system security with a specific focus on HPC security in the cluster and cloud environment. I am doing research under the supervision of [Dr. Zhi Wang](https://www.cs.fsu.edu/~zwang/) and [Dr. Xin Yuan](https://www.cs.fsu.edu/~xyuan/). I am grateful for having [Dr. Viet Tung Hoang](https://www.cs.fsu.edu/~tvhoang/) as a committee member.
+I am a Ph.D. candidate at Department of Computer Science, Florida State University. My research interest in Parallel and Distributed Systems, High-Performance Computing(HPC), Cloud, and System Security with a specific focus on HPC security in the cluster and cloud environment. I am doing research under the supervision of [Dr. Zhi Wang](https://www.cs.fsu.edu/~zwang/) and [Dr. Xin Yuan](https://www.cs.fsu.edu/~xyuan/). I am grateful for having [Dr. Viet Tung Hoang](https://www.cs.fsu.edu/~tvhoang/) as a committee member.
 
 In my research project, I have designed and implemented a secure fast communication library (CryptMPI) for parallel computing architecture on top of MPICH and MVAPICH using the C programming language. In CryptMPI we have optimized both point-to-point and collective communication routines and run our evaluation in a large production environment (512 - 1K processes and 16 - 128 nodes). We did our evaluation on Ethernet, Infiniband, and Omni-Path networks, and evaluation results suggest that our system can improve performance significantly.
 
