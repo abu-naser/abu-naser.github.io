@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
  
-### Argonne National Labratory, Lemont, USA
+### Argonne National Labratory, Lemont, USA     
 ----
 * Research Aide (May 2021 - August 2021)
     * I am working on the OpenSHMEM GPU (CUDA) project. In particular, I am working with OSHMPI and
@@ -15,7 +15,7 @@ author_profile: true
       goal of my project is to identify the potential bottleneck in GPU to GPU inter-node
       communication and do optimization.
 
-### Florida State University, Tallahassee, USA
+### Florida State University, Tallahassee, USA       
 ----
 * Graduate Research Assistant (August 2016 - April 2021)
     *  Designed and implemented encrypted parallel and distributed communication library CryptMPI for HPC in the cloud.  CryptMPI implemented in C on top of MVAPICH and MPICH to speed up encrypted communication using novel collective algorithms, pre-computation, multithreading, and pipelining techniques.
@@ -27,14 +27,14 @@ author_profile: true
     * Fall 2017: COP 4610 (CGS-5765) - Introduction to Operating Systems (Undergraduate)
 
 
-### Shahjalal University of Science and Technology, Sylhet, Bangladesh
+### Shahjalal University of Science and Technology, Sylhet, Bangladesh       
 ----
 * Assistant Professor (March 2015 - July 2016)
     * Taught undergraduate courses
 * Lecturer (March 2012 - February 2015)
   * Taught undergraduate courses
 
-### Samsung Research and Development Institute, Dhaka, Bangladesh
+### Samsung Research and Development Institute, Dhaka, Bangladesh        
 ----
 * Software Engineer (November 2010 - February 2012)
     * Customized and developed Samsung mobile phone OS for different regional specifications.
