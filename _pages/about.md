@@ -12,8 +12,9 @@ I am a Ph.D. candidate at Department of Computer Science, Florida State Universi
 
 In my research project, I have designed and implemented a secure fast communication library (CryptMPI) for parallel computing architecture on top of MPICH and MVAPICH using the C programming language. In CryptMPI we have optimized both point-to-point and collective communication routines and run our evaluation in a large production environment (512 - 1K processes and 16 - 128 nodes). We did our evaluation on Ethernet, Infiniband, and Omni-Path networks, and evaluation results suggest that our system can improve performance significantly.
 
-In addition to that, I have experience in working on system security projects. I have designed and implemented a memory vulnerabilities detection and prevention system and also worked on an LLC cache side-channel defense project for HPC applications.
+In addition to that, I have experience in working on system security projects. I have designed and implemented a memory vulnerabilities detection and prevention system. In another project, worked on an LLC cache side-channel defense project for HPC applications on a multi-tenant could environment. I have also 1+ years of software development industry experience and am familiar with software development lifecycle, and tools.
 
+Seeking a full-time position in HPC, Cloud, and System Security
 ### Publications
 ---
 1. Efficient Algorithms for Encrypted All-gather Operation   
@@ -23,8 +24,7 @@ In addition to that, I have experience in working on system security projects. I
 
 2. Performance Evaluation and Modeling of Cryptographic Libraries for MPI Communications   
   **Abu Naser**, Mehran Sadeghi Lahijani,  Cong Wu, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, Xin Yuan   
-  ([arxiv.org](https://arxiv.org))  
-   [[paper](https://arxiv.org/abs/2010.06139), [source code](https://github.com/abu-naser/Encrypted-MPI-Communication ]    
+  [arXiv.org](https://arxiv.org)[[paper](https://arxiv.org/abs/2010.06139), [source code](https://github.com/abu-naser/Encrypted-MPI-Communication)]    
 
 3. An Empirical Study of Cryptographic Libraries for MPI Communications   
   **Abu Naser**, Mohsen Gavahi, Cong Wu, Viet Tung Hoang, Zhi Wang, Xin Yuan   
