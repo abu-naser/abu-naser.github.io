@@ -14,7 +14,7 @@ In my research project, I have designed and implemented a secure fast communicat
 
 In addition to that, I have experience in working on system security projects. I have designed and implemented a memory vulnerabilities detection and prevention system. In another project, worked on an LLC cache side-channel defense project for HPC applications on a multi-tenant could environment. I have also 1+ years of software development industry experience and am familiar with software development lifecycle, and tools.
 
-Seeking a full-time position in HPC, Cloud, and System Security
+<span style="color:blue">Seeking a full-time position in HPC, Cloud, and System Security</span>
 ### Publications
 ---
 1. Efficient Algorithms for Encrypted All-gather Operation   
@@ -24,7 +24,7 @@ Seeking a full-time position in HPC, Cloud, and System Security
 
 2. Performance Evaluation and Modeling of Cryptographic Libraries for MPI Communications   
   **Abu Naser**, Mehran Sadeghi Lahijani,  Cong Wu, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, Xin Yuan   
-  [arXiv.org](https://arxiv.org)[[paper](https://arxiv.org/abs/2010.06139), [source code](https://github.com/abu-naser/Encrypted-MPI-Communication)]    
+  [arXiv.org](https://arxiv.org)  [[paper](https://arxiv.org/abs/2010.06139), [source code](https://github.com/abu-naser/Encrypted-MPI-Communication)]    
 
 3. An Empirical Study of Cryptographic Libraries for MPI Communications   
   **Abu Naser**, Mohsen Gavahi, Cong Wu, Viet Tung Hoang, Zhi Wang, Xin Yuan   
