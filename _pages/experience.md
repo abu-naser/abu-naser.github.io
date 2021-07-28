@@ -20,7 +20,8 @@ author_profile: true
 * Graduate Research Assistant (August 2016 - April 2021)
     *  Designed and implemented encrypted parallel and distributed communication library CryptMPI for HPC in the cloud.  CryptMPI implemented in C on top of MVAPICH and MPICH to speed up encrypted communication using novel collective algorithms, pre-computation, multithreading, and pipelining techniques.
     *  Designed and implemented memory vulnerabilities detection and prevention system.
-    *  LLC cache side-channel defense for HPC applications.
+    *  LLC cache side-channel defense for HPC applications on a multi-tenant could environment.
+    *  Performance analysis of HPC workloads on Docker containers running on multiple nodes.
 
 * Graduate Teaching Assistant
     * Spring 2018: CIS 5370 - Computer Security (Graduate)
