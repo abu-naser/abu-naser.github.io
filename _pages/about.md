@@ -24,7 +24,7 @@ In addition to that, I have experience in working on system security projects. I
 
 2. Performance Evaluation and Modeling of Cryptographic Libraries for MPI Communications   
   **Abu Naser**, Mehran Sadeghi Lahijani,  Cong Wu, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, Xin Yuan   
-  [arXiv.org](https://arxiv.org)  [[paper](https://arxiv.org/abs/2010.06139), [source code](https://github.com/abu-naser/Encrypted-MPI-Communication)]    
+  arXiv.org, 2020  [[paper](https://arxiv.org/abs/2010.06139), [source code](https://github.com/abu-naser/Encrypted-MPI-Communication)]    
 
 3. An Empirical Study of Cryptographic Libraries for MPI Communications   
   **Abu Naser**, Mohsen Gavahi, Cong Wu, Viet Tung Hoang, Zhi Wang, Xin Yuan   
