@@ -14,7 +14,7 @@ In my research project, I have designed and implemented a secure fast communicat
 
 In addition to that, I have experience in working on system security projects. I have designed and implemented a memory vulnerabilities detection and prevention system. In another project, worked on an LLC cache side-channel defense project for HPC applications on a multi-tenant could environment. I have also 1+ years of software development industry experience and am familiar with software development lifecycle, and tools.
 
-<span style="color: #33beff">Seeking a full-time position in HPC, Cloud, and System Security.</span>
+<span style="color:blue">Seeking a full-time position in HPC, Cloud, and System Security.</span>
 ### Publications
 ---
 1. Efficient Algorithms for Encrypted All-gather Operation   
