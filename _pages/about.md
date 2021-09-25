@@ -18,7 +18,7 @@ In addition to that, I have experience in working on system security projects. I
 ### Publications
 ---
 1. Encrypted All-reduce on Multi-core Clusters   
-   Mohsen Gavahi, **Abu Naser**, Cong Wu, Mehran Sadeghi Lahijani, Zhi Wang, Xin Yuan 
+   Mohsen Gavahi, **Abu Naser**, Cong Wu, Mehran Sadeghi Lahijani, Zhi Wang, Xin Yuan   
    40th IEEE International Performance Computing and Communications Conference ([IPCCC 2021](https://www.ipccc.org/ipccc2021/main.php?page=1))   
    Austin, Texas, USA, October 2021 
 
