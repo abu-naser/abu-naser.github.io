@@ -10,10 +10,10 @@ author_profile: true
 ### Argonne National Labratory, Lemont, USA     
 ----
 * Research Aide (May 2021 - August 2021)
-    * I am working on the OpenSHMEM GPU (CUDA) project. In particular, I am working with OSHMPI and
+    * I worked on the OpenSHMEM GPU (CUDA) project. In particular, I had worked with OSHMPI and
       MPICH, which are implementation of OpenSHMEM and MPI respectively. The
-      goal of my project is to identify the potential bottleneck in GPU to GPU inter-node
-      communication and do optimization.
+      goal of my project was to identify and measure the potential bottleneck in GPU to GPU inter-node
+      communication.
 
 ### Florida State University, Tallahassee, USA       
 ----
