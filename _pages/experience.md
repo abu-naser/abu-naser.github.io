@@ -24,7 +24,7 @@ author_profile: true
     *  Performance analysis of HPC workloads on Docker containers running on multiple nodes.
 
 * Graduate Teaching Assistant
-    * Fall 2021: CIS-4626/CIS-5627 Offensive Computer Security (Graduate and Undergraduate) 
+    * Fall 2021: CIS-5627/CIS-4626 Offensive Computer Security (Graduate and Undergraduate) 
     * Spring 2018: CIS 5370 - Computer Security (Graduate)
     * Fall 2017: COP 4610 (CGS-5765) - Introduction to Operating Systems (Undergraduate)
 
