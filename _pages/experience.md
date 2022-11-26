@@ -6,7 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
- 
+### Intel, Austin, USA     
+----
+* Middleware Development Engineer (May 2022 - Present)
+    * I am working on distributed and parallel runtime library Intel-MPI for CPU and GPU enabled clusters. My responsibilities included implementing new features, optimizing performance, and solving issues.
+
 ### Argonne National Labratory, Lemont, USA     
 ----
 * Research Aide (May 2021 - August 2021)
