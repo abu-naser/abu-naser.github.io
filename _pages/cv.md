@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 ---
-[CV](https://ww2.cs.fsu.edu/~naser/Abu-Naser.pdf)  
+[CV](https://abu-naser.github.io/files/Abu-Naser-CV.pdf)  
