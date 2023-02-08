@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Abu Naser"
   avatar           : "ppp2_reducesize.jpg"
-  bio              : "Ph.D., Florida State University."
-  location         : "Tallahasse, Florida"
-  employer         :
+  bio              : "Middleware Development Engineer | Ph.D."
+  location         : "Austin, Texas"
+  employer         : "ttps://www.intel.com/content/www/us/en/homepage.html"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "an16e@my.fsu.edu"
+  email            : "abu.naser002@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

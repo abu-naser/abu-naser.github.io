@@ -13,7 +13,7 @@ Before that, I received my Ph.D. from the Department of Computer Science, at Flo
 
 In my Ph.D. research project, I have designed and implemented a secure, fast communication library (CryptMPI) for parallel computing architecture on top of MPICH and MVAPICH using the C programming language. In CryptMPI, I have optimized both point-to-point and collective communication routines. I used pre-computation, multi-threading, pipelining, and novel algorithms to optimize the performance of CryptMPI in many-core systems. All my works are publicly available on Github. At Argonne National Lab, I have gained experience working with GPUs. I worked to identify reasons for GPU to GPU communication bottleneck in a Partitioned Global Address Space (PGAS) library using benchmarking, profiling, debugging, and analyzing program critical paths. These works give me a solid foundation in Parallel and Distributed Systems for High-Performance Computing.
 
-In addition to that, I have experience working on system security projects. For example, I have designed and implemented a memory vulnerabilities detection and prevention system. In another project, worked on an LLC cache side-channel defense project for HPC applications on a multi-tenant cloud environment. I also have 11 years of work experience including 1+ years of software development industry experience and am familiar with software development lifecycle (SDLC), and tools.
+In addition to that, I have experience working on system security projects. For example, I have designed and implemented a memory vulnerabilities detection and prevention system. In another project, worked on an LLC cache side-channel defense project for HPC applications on a multi-tenant cloud environment. 
 
 
 ### Publications
