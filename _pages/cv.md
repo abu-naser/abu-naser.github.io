@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 ---
-[resume](https://abu-naser.github.io/files/Abu-Naser-CV.pdf)  
+[Resume](https://abu-naser.github.io/files/Abu-Naser-CV.pdf)  
