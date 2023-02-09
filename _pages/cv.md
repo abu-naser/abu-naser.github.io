@@ -1,7 +1,7 @@
 ---
 layout: archive
 #title: "CV"
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 ---
-[CV](https://abu-naser.github.io/files/Abu-Naser-CV.pdf)  
+[resume](https://abu-naser.github.io/files/Abu-Naser-CV.pdf)  
