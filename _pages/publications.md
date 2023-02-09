@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+#title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
 
 
-
+### Publications
 ---
 1. Encrypted All-reduce on Multi-core Clusters   
    Mohsen Gavahi, **Abu Naser**, Cong Wu, Mehran Sadeghi Lahijani, Zhi Wang, Xin Yuan   
