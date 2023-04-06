@@ -21,6 +21,4 @@ In addition to that, I have experience working on system security projects. For 
 
 
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=s4HeHyMr8vj-zZp8AbLbXNdJOSQhfi_gSUL30NWJNvg&cl=ffffff&w=a" width="100" height="70"></script>
-
+<a href="https://clustrmaps.com/site/1bu0t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=s4HeHyMr8vj-zZp8AbLbXNdJOSQhfi_gSUL30NWJNvg&cl=ffffff" /></a>
