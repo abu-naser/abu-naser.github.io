@@ -21,4 +21,4 @@ In addition to that, I have experience working on system security projects. For 
 
 
 
-<center><a href="https://clustrmaps.com/site/1bu0t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=s4HeHyMr8vj-zZp8AbLbXNdJOSQhfi_gSUL30NWJNvg&cl=ffffff" width="200" height="140"/></a></center>
+<center><a href="https://clustrmaps.com/site/1bu0t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=s4HeHyMr8vj-zZp8AbLbXNdJOSQhfi_gSUL30NWJNvg&cl=ffffff" width="200" height="110"/></a></center>
