@@ -15,7 +15,7 @@ author_profile: true
    Austin, Texas, USA, October 2021 [[paper](https://ww2.cs.fsu.edu/~gavahi/publications.php_files/Encrypted_All-reduce_on_Multi-core_Clusters.pdf)]
 
 2. Efficient Algorithms for Encrypted All-gather Operation   
-   Mehran Sadeghi Lahijani, **Abu Naser**, Cong Wu, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, Xin Yuan 
+   Mehran Sadeghi Lahijani, **Abu Naser**, Cong Wu, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, Xin Yuan   
    35th IEEE International Parallel &  Distributed Processing Symposium ([IPDPS 2021](https://www.ipdps.org/))   
    Portland, Oregon, USA, May 2021 (22.7%) [[paper](https://ieeexplore.ieee.org/document/9460464)] 
 
