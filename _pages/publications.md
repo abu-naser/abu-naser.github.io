@@ -39,8 +39,3 @@ author_profile: true
    Stockholm, Sweden Jun 2019 (20%) [[paper](https://www.cs.fsu.edu/~zwang/files/eurosp19.pdf), [source code](https://github.com/mustakcsecuet/CFI-LB), Best Paper Award]  
 
 
-### Service
----
-* AD/AE evaluation committee member, [SC, 2021](https://sc21.supercomputing.org/).
-
-
