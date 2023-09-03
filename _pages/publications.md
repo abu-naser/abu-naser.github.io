@@ -9,13 +9,13 @@ author_profile: true
 
 ### Publications
 ---
-1. Encrypted Collective Communication in Multi-core Clusters
-   Mehran Sadeghi Lahijani, **Abu Naser**, Cong Wu, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, Xin Yuan
+1. Encrypted Collective Communication in Multi-core Clusters   
+   Mehran Sadeghi Lahijani, **Abu Naser**, Cong Wu, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, Xin Yuan   
    Proceedings of the 25th IEEE International Conference on Cluster Computing ([Cluster 2023](https://clustercomp.org/2023/))   
    Santa Fe, New Mexico, USA, November 2023.
 
-2. Performance of Software-based Encrypted MPI Communication over Container Clusters
-   Mohsen Gavahi, **Abu Naser**, Mehran Sadeghi Lahijani, Cong Wu, Zhi Wang, Xin Yuan
+2. Performance of Software-based Encrypted MPI Communication over Container Clusters   
+   Mohsen Gavahi, **Abu Naser**, Mehran Sadeghi Lahijani, Cong Wu, Zhi Wang, Xin Yuan   
    42nd IEEE International Performance Computing and Communications Conference ([IPCCC 2023](https://ipccc.org/ipccc2023/main.php?page=1))   
    Anaheim, California, USA, November 2023.
 
@@ -29,7 +29,7 @@ author_profile: true
    35th IEEE International Parallel &  Distributed Processing Symposium ([IPDPS 2021](https://www.ipdps.org/))   
    Portland, Oregon, USA, May 2021 (22.7%) [[paper](https://ieeexplore.ieee.org/document/9460464)] 
 
-5. CryptMPI: A Fast Encrypted MPI Library
+5. CryptMPI: A Fast Encrypted MPI Library   
    **Abu Naser**, Cong Wu, Mehran Sadeghi Lahijani, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, Xin Yuan   
   arXiv.org, 2020  [[paper](https://arxiv.org/pdf/2010.06471.pdf), [source code](https://github.com/abu-naser/CryptMPI-A-Fast-Encrypted-MPI-Library)]    
 
