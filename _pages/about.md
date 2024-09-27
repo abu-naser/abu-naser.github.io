@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Middleware Development Engineer at [Intel](https://www.intel.com/content/www/us/en/homepage.html) and working on [Intel-MPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/mpi-library.html#gs.oigo4f) project.
+I am a Middleware Development Engineer at [Intel](https://www.intel.com/content/www/us/en/homepage.html) and working on the [Intel-MPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/mpi-library.html#gs.oigo4f) project. Intel-MPI enables parallel applications to scale on both CPU and GPU based cluster systems. It offers both P2P and Collective communications. Scientific and AI/ML workloads leverage Intel-MPI to scale up and out in a distributed computing environment. My responsibilities include implementing new features, measuring and optimizing performance, and solving issues.
 
 I received my Ph.D. from the Department of Computer Science, at Florida State University. My research interest is in Parallel and Distributed Systems, High-Performance Computing(HPC), Cloud, and System Security.  I did research under the supervision of [Dr. Zhi Wang](https://www.cs.fsu.edu/~zwang/) and [Dr. Xin Yuan](https://www.cs.fsu.edu/~xyuan/). I am grateful for having [Dr. Viet Tung Hoang](https://www.cs.fsu.edu/~tvhoang/) as a committee member.
 

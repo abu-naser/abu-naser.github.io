@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abu Naser"
+title                    : "Abu Naser, Ph.D."
 title_separator          : "-"
 name                     : &name "Abu Naser"
 description              : &description "Middleware Development Engineer"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "abu-naser-01"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
