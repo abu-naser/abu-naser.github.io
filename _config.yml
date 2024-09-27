@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abu Naser"
+title                    : "Abu Naser, PhD"
 title_separator          : "-"
 name                     : &name "Abu Naser"
 description              : &description "Middleware Development Engineer"
